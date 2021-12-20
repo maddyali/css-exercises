@@ -1,0 +1,11 @@
+/* TODO Use TYPE SELECTORS and KEYWORDS for colors
+TODO * `div`: a red background, white text, a font size of 32px, center aligned, and bold
+TODO * `p`: a green background, white text, and a font size of 18px
+TODO * `button`: an orange background and a font size of 18px */
+div {
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+}
